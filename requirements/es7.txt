@@ -4,3 +4,4 @@ elasticsearch==7.10.0 \
 elasticsearch-dsl==7.3.0 \
     --hash=sha256:0ed75f6ff037e36b2397a8e92cae0ddde79b83adc70a154b8946064cb62f7301 \
     --hash=sha256:9390d8e5cf82ebad3505e7f656e407259cf703f5a4035f211cef454127672572
+certifi>=2022.12.7 # not directly required, pinned by Snyk to avoid a vulnerability
