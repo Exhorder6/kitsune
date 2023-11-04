@@ -254,7 +254,7 @@ django-watchman==1.1.1 \
     --hash=sha256:63ed14c13a535ff53540dfea504448588274f96bbd872db67379609274cdf837 \
     --hash=sha256:809097717254534ef4fb251787b35dd4f00e3da68ae8b9361d340062ef966e5e
     # via -r requirements/default.in
-django==2.2.19 \
+django==3.2.23 \
     --hash=sha256:30c235dec87e05667597e339f194c9fed6c855bda637266ceee891bf9093da43 \
     --hash=sha256:e319a7164d6d30cb177b3fd74d02c52f1185c37304057bb76d74047889c605d9
     # via
@@ -535,7 +535,7 @@ parameterized==0.7.5 \
     --hash=sha256:b36f709fcfd9e8c144c1374b16a40fc0b5984efe93e41d53e6d228ae2a1540c5 \
     --hash=sha256:b5e6af67b9e49485e30125b1c8f031ffa81a265ca08bfa73f31551bf03cf68c4
     # via -r requirements/default.in
-pillow==8.1.2 \
+pillow==10.0.0 \
     --hash=sha256:15306d71a1e96d7e271fd2a0737038b5a92ca2978d2e38b6ced7966583e3d5af \
     --hash=sha256:1940fc4d361f9cc7e558d6f56ff38d7351b53052fd7911f4b60cd7bc091ea3b1 \
     --hash=sha256:1f93f2fe211f1ef75e6f589327f4d4f8545d5c8e826231b042b483d8383e8a7c \
@@ -830,7 +830,7 @@ webencodings==0.5.1 \
     # via
     #   bleach
     #   html5lib
-werkzeug==1.0.1 \
+werkzeug==3.0.1 \
     --hash=sha256:2de2a5db0baeae7b2d2664949077c2ac63fbd16d98da0ff71837f7d1dea3fd43 \
     --hash=sha256:6c80b1e5ad3665290ea39320b91e1be1e0d5f60652b964a3070216de83d2e47c
     # via -r requirements/default.in
