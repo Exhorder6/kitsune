@@ -254,7 +254,7 @@ django-watchman==1.1.1 \
     --hash=sha256:63ed14c13a535ff53540dfea504448588274f96bbd872db67379609274cdf837 \
     --hash=sha256:809097717254534ef4fb251787b35dd4f00e3da68ae8b9361d340062ef966e5e
     # via -r requirements/default.in
-django==2.2.19 \
+django==4.2.28 \
     --hash=sha256:30c235dec87e05667597e339f194c9fed6c855bda637266ceee891bf9093da43 \
     --hash=sha256:e319a7164d6d30cb177b3fd74d02c52f1185c37304057bb76d74047889c605d9
     # via
@@ -578,7 +578,7 @@ premailer==3.7.0 \
     --hash=sha256:5eec9603e84cee583a390de69c75192e50d76e38ef0292b027bd64923766aca7 \
     --hash=sha256:c7ac48986984a810afea5147bc8410a8fe0659bf52f357e78b28a1b949209b91
     # via -r requirements/default.in
-protobuf==3.15.6 \
+protobuf==6.33.5 \
     --hash=sha256:0f2da2fcc4102b6c3b57f03c9d8d5e37c63f8bc74deaa6cb54e0cc4524a77247 \
     --hash=sha256:1655fc0ba7402560d749de13edbfca1ac45d1753d8f4e5292989f18f5a00c215 \
     --hash=sha256:1771ef20e88759c4d81db213e89b7a1fc53937968e12af6603c658ee4bcbfa38 \
